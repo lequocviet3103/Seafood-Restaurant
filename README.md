@@ -8,14 +8,10 @@ Các tính năng cơ bản:
    - Thêm hình ảnh trang trí cho các banner nổi bật, các món ăn best seller của nhà hàng.
      <img src="https://phuquocsensetravel.com/view/at_nhung-mon-an-hai-san-dat-do-o-viet-nam_9823935f2ed73142be388bdd8cac4ba8.jpg" alt="Hải sản tươi sống" width="500"/>
 
+2. Danh sách các sản phẩm và chi tiết sản phẩm:
+   - 
 
--Quản lý thực đơn hải sản:
-  +	Món hải sản bán theo giá
-  +	Giá cả thị trường
-  +	Nguồn gốc thực phẩm
--Quản lý đặt bàn:
-  +	Khách hàng có thể đặt bàn theo khu vực (phòng VIP, ngoài trời, trong nhà).
-  +	Đặt bàn theo khung giờ (VD: Bàn 1:Khách đặt lúc 7:00 PM)
+
 -Quản lý đơn hàng hải sản:
   +	Món hải sản được thêm vào hóa đơn (giấy note)
   +	Ghi nhận món ăn khách hàng đã đặt trên thực đơn và được ghi lại trong giấy note
