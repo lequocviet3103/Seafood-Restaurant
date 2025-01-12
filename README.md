@@ -2,6 +2,12 @@
 ## Seafood Restaurant
 Dự án Nhà hàng Hải Sản
 Các tính năng cơ bản:
+
+1. Trang chủ:
+   - Mô tả và giới thiệu tất cả các sản phẩm, thực phẩm trong nhà hàng.
+   - Thêm hình ảnh trang trí cho các banner nổi bật, các món ăn best seller của nhà hàng.
+     ![Hải sản tươi sống](https://www.google.com/imgres?q=%E1%BA%A3nh%20m%C3%B3n%20%C4%83n%20h%E1%BA%A3i%20s%E1%BA%A3n&imgurl=https%3A%2F%2Fstcd02265632633.cloud.edgevnpay.vn%2Fwebsite-vnpay-public%2Ffill%2F2023%2F9%2F0z4ws0ez4vw1694161390986.jpg&imgrefurl=https%3A%2F%2Fvnpay.vn%2Fnha-hang-hai-san-ngon-o-nha-trang-04w68zgrddtm&docid=crX88B-9FQuF8M&tbnid=g476ag-LzFK7PM&vet=12ahUKEwiL2eW5u_CKAxVzdPUHHYEBLkYQM3oECG0QAA..i&w=841&h=566&hcb=2&ved=2ahUKEwiL2eW5u_CKAxVzdPUHHYEBLkYQM3oECG0QAA)
+
 -Quản lý thực đơn hải sản:
   +	Món hải sản bán theo giá
   +	Giá cả thị trường
