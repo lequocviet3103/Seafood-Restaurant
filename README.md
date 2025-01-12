@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b0bab9a-4dc2-4ebf-8be0-6a02533463cd)# Seafood-Restaurant
+
 ## Seafood Restaurant
 Dự án Nhà hàng Hải Sản
 Các tính năng cơ bản:
@@ -6,7 +6,8 @@ Các tính năng cơ bản:
 1. Trang chủ:
    - Mô tả và giới thiệu tất cả các sản phẩm, thực phẩm trong nhà hàng.
    - Thêm hình ảnh trang trí cho các banner nổi bật, các món ăn best seller của nhà hàng.
-     ![Hải sản tươi sống](https://phuquocsensetravel.com/view/at_nhung-mon-an-hai-san-dat-do-o-viet-nam_9823935f2ed73142be388bdd8cac4ba8.jpg)
+     <img src="[https://example.com/hinhhaisantuoisong.jpg](https://phuquocsensetravel.com/view/at_nhung-mon-an-hai-san-dat-do-o-viet-nam_9823935f2ed73142be388bdd8cac4ba8.jpg)" alt="Hải sản tươi sống" width="500"/>
+
 
 -Quản lý thực đơn hải sản:
   +	Món hải sản bán theo giá
